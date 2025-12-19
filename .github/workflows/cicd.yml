@@ -1,4 +1,4 @@
-name: CI/CD Pipeline for ML Model
+name: CI/CD Pipeline for MLOps Model
 
 on:
   push:

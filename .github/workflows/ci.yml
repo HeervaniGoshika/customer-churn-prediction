@@ -1,4 +1,4 @@
-name: ML CI Pipeline
+name: MLOps CI Pipeline
 
 on:
   push:
